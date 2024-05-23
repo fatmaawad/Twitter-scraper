@@ -1,0 +1,1002 @@
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:WebDriver version 124.0.6367.207 selected
+INFO:WDM:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/124.0.6367.207/win32/chromedriver-win32.zip
+INFO:WDM:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/124.0.6367.207/win32/chromedriver-win32.zip
+INFO:WDM:WebDriver version 124.0.6367.207 selected
+INFO:WDM:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/124.0.6367.207/win32/chromedriver-win32.zip
+INFO:WDM:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/124.0.6367.207/win32/chromedriver-win32.zip
+INFO:WDM:WebDriver version 124.0.6367.207 selected
+INFO:WDM:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/124.0.6367.207/win32/chromedriver-win32.zip
+INFO:WDM:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/124.0.6367.207/win32/chromedriver-win32.zip
+INFO:WDM:WebDriver version 124.0.6367.207 selected
+INFO:WDM:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/124.0.6367.207/win32/chromedriver-win32.zip
+INFO:WDM:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/124.0.6367.207/win32/chromedriver-win32.zip
+INFO:WDM:WebDriver version 124.0.6367.207 selected
+INFO:WDM:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/124.0.6367.207/win32/chromedriver-win32.zip
+INFO:WDM:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/124.0.6367.207/win32/chromedriver-win32.zip
+INFO:WDM:WebDriver version 124.0.6367.207 selected
+INFO:WDM:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/124.0.6367.207/win32/chromedriver-win32.zip
+INFO:WDM:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/124.0.6367.207/win32/chromedriver-win32.zip
+INFO:WDM:WebDriver version 124.0.6367.207 selected
+INFO:WDM:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/124.0.6367.207/win32/chromedriver-win32.zip
+INFO:WDM:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/124.0.6367.207/win32/chromedriver-win32.zip
+INFO:WDM:WebDriver version 124.0.6367.207 selected
+INFO:WDM:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/124.0.6367.207/win32/chromedriver-win32.zip
+INFO:WDM:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/124.0.6367.207/win32/chromedriver-win32.zip
+INFO:WDM:WebDriver version 124.0.6367.207 selected
+INFO:WDM:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/124.0.6367.207/win32/chromedriver-win32.zip
+INFO:WDM:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/124.0.6367.207/win32/chromedriver-win32.zip
+INFO:WDM:WebDriver version 124.0.6367.207 selected
+INFO:WDM:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/124.0.6367.207/win32/chromedriver-win32.zip
+INFO:WDM:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/124.0.6367.207/win32/chromedriver-win32.zip
+INFO:WDM:Driver downloading response is 200
+INFO:WDM:Driver downloading response is 200
+INFO:WDM:Driver downloading response is 200
+INFO:WDM:Driver downloading response is 200
+INFO:WDM:Driver downloading response is 200
+INFO:WDM:Driver downloading response is 200
+INFO:WDM:Driver downloading response is 200
+INFO:WDM:Driver downloading response is 200
+INFO:WDM:Driver downloading response is 200
+INFO:WDM:Driver downloading response is 200
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver has been saved in cache [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207]
+INFO:root:Scraping https://twitter.com/warrior_0719
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver has been saved in cache [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207]
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:root:Scraping https://twitter.com/allstarcharts
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver has been saved in cache [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207]
+INFO:root:Scraping https://twitter.com/RoyLMattox
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:root:Found 0 tweets
+INFO:root:Found 0 tweets
+INFO:root:'$UNG' was mentioned '0' times in the last '1' minutes.
+INFO:root:Found 0 tweets
+INFO:root:'$UNG' was mentioned '0' times in the last '1' minutes.
+INFO:root:'$UNG' was mentioned '0' times in the last '1' minutes.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:root:Scraping https://twitter.com/allstarcharts
+INFO:root:Scraping https://twitter.com/warrior_0719
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:root:Scraping https://twitter.com/RoyLMattox
+INFO:root:Scraping https://twitter.com/TriggerTrades
+INFO:root:Scraping https://twitter.com/AdamMancini4
+INFO:root:Scraping https://twitter.com/Mr_Derivatives
+INFO:root:Scraping https://twitter.com/yuriymatso
+INFO:root:Scraping https://twitter.com/Barchart
+INFO:root:Found 0 tweets
+INFO:root:Found 0 tweets
+INFO:root:Scraping https://twitter.com/ChartingProdigy
+INFO:root:Scraping https://twitter.com/CordovaTrades
+INFO:root:Found 0 tweets
+INFO:root:Found 0 tweets
+INFO:root:Found 0 tweets
+INFO:root:Found 0 tweets
+INFO:root:Found 0 tweets
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:root:Scraping https://twitter.com/ChartingProdigy
+INFO:root:Scraping https://twitter.com/CordovaTrades
+INFO:root:Scraping https://twitter.com/RoyLMattox
+INFO:root:Scraping https://twitter.com/warrior_0719
+INFO:root:Scraping https://twitter.com/TriggerTrades
+INFO:root:Scraping https://twitter.com/allstarcharts
+INFO:root:Scraping https://twitter.com/AdamMancini4
+INFO:root:Scraping https://twitter.com/yuriymatso
+INFO:root:Scraping https://twitter.com/Barchart
+INFO:root:Scraping https://twitter.com/Mr_Derivatives
+INFO:root:Found 0 tweets
+INFO:root:Found 0 tweets
+INFO:root:Found 0 tweets
+INFO:root:Found 0 tweets
+INFO:root:Found 0 tweets
+INFO:root:Found 0 tweets
+INFO:root:Found 0 tweets
+INFO:root:Found 0 tweets
+INFO:root:'$UNG' was mentioned '0' times in the last '3' minutes.
+INFO:root:'$UNG' was mentioned '0' times in the last '3' minutes.
+INFO:root:Found 0 tweets
+INFO:root:Found 0 tweets
+INFO:root:'$UNG' was mentioned '0' times in the last '3' minutes.
+INFO:root:'$UNG' was mentioned '0' times in the last '3' minutes.
+INFO:root:'$UNG' was mentioned '0' times in the last '3' minutes.
+INFO:root:'$UNG' was mentioned '0' times in the last '3' minutes.
+ERROR:selenium.webdriver.common.service:Service process refused to terminate gracefully with SIGTERM, escalating to SIGKILL.
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\selenium\webdriver\common\service.py", line 172, in _terminate_process
+    self.process.wait(60)
+  File "C:\Python312\Lib\subprocess.py", line 1264, in wait
+    return self._wait(timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\subprocess.py", line 1591, in _wait
+    raise TimeoutExpired(self.args, timeout)
+subprocess.TimeoutExpired: Command '['C:\\Users\\Fatma Awad\\.wdm\\drivers\\chromedriver\\win64\\124.0.6367.207\\chromedriver-win32/chromedriver.exe', '--port=50193']' timed out after 60 seconds
+INFO:root:'$UNG' was mentioned '0' times in the last '3' minutes.
+INFO:root:'$UNG' was mentioned '0' times in the last '3' minutes.
+INFO:root:'$UNG' was mentioned '0' times in the last '3' minutes.
+INFO:root:'$UNG' was mentioned '0' times in the last '3' minutes.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:root:Found 0 tweets
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+ERROR:root:Error scraping https://twitter.com/Mr_Derivatives: Message: 
+
+INFO:root:0 mentions of '$XLE' found in https://twitter.com/Mr_Derivatives.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+ERROR:root:Error scraping https://twitter.com/warrior_0719: Message: 
+
+INFO:root:0 mentions of '$XLE' found in https://twitter.com/warrior_0719.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+ERROR:root:Error scraping https://twitter.com/ChartingProdigy: Message: 
+
+INFO:root:0 mentions of '$XLE' found in https://twitter.com/ChartingProdigy.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+ERROR:root:Error scraping https://twitter.com/allstarcharts: Message: 
+
+INFO:root:0 mentions of '$XLE' found in https://twitter.com/allstarcharts.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+ERROR:root:Error scraping https://twitter.com/yuriymatso: Message: 
+
+INFO:root:0 mentions of '$XLE' found in https://twitter.com/yuriymatso.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+ERROR:root:Error scraping https://twitter.com/TriggerTrades: Message: 
+
+INFO:root:0 mentions of '$XLE' found in https://twitter.com/TriggerTrades.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+ERROR:root:Error scraping https://twitter.com/AdamMancini4: Message: 
+
+INFO:root:0 mentions of '$XLE' found in https://twitter.com/AdamMancini4.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+ERROR:root:Error scraping https://twitter.com/CordovaTrades: Message: 
+
+INFO:root:0 mentions of '$XLE' found in https://twitter.com/CordovaTrades.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+ERROR:root:Error scraping https://twitter.com/Barchart: Message: 
+
+INFO:root:0 mentions of '$XLE' found in https://twitter.com/Barchart.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+ERROR:root:Error scraping https://twitter.com/RoyLMattox: Message: 
+
+INFO:root:0 mentions of '$XLE' found in https://twitter.com/RoyLMattox.
+INFO:root:Total mentions of '$XLE' across all accounts: 0.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+ERROR:root:Error scraping https://twitter.com/Mr_Derivatives: Message: 
+
+INFO:root:0 mentions of '$XLE' found in https://twitter.com/Mr_Derivatives.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+ERROR:root:Error scraping https://twitter.com/warrior_0719: Message: 
+
+INFO:root:0 mentions of '$XLE' found in https://twitter.com/warrior_0719.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+ERROR:root:Error scraping https://twitter.com/ChartingProdigy: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=124.0.6367.210)
+Stacktrace:
+	GetHandleVerifier [0x00EEC113+48259]
+	(No symbol) [0x00E7CA41]
+	(No symbol) [0x00D70A17]
+	(No symbol) [0x00D4E02B]
+	(No symbol) [0x00DD742E]
+	(No symbol) [0x00DE9476]
+	(No symbol) [0x00DD0B36]
+	(No symbol) [0x00DA570D]
+	(No symbol) [0x00DA62CD]
+	GetHandleVerifier [0x011A65A3+2908435]
+	GetHandleVerifier [0x011E3BBB+3159851]
+	GetHandleVerifier [0x00F850CB+674875]
+	GetHandleVerifier [0x00F8B28C+699900]
+	(No symbol) [0x00E86244]
+	(No symbol) [0x00E82298]
+	(No symbol) [0x00E8242C]
+	(No symbol) [0x00E74BB0]
+	BaseThreadInitThunk [0x768BFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77667CBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77667C8E+238]
+
+INFO:root:0 mentions of '$XLE' found in https://twitter.com/ChartingProdigy.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+ERROR:root:Error scraping https://twitter.com/allstarcharts: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=124.0.6367.210)
+Stacktrace:
+	GetHandleVerifier [0x00EEC113+48259]
+	(No symbol) [0x00E7CA41]
+	(No symbol) [0x00D70A17]
+	(No symbol) [0x00D4E02B]
+	(No symbol) [0x00DD742E]
+	(No symbol) [0x00DE9476]
+	(No symbol) [0x00DD0B36]
+	(No symbol) [0x00DA570D]
+	(No symbol) [0x00DA62CD]
+	GetHandleVerifier [0x011A65A3+2908435]
+	GetHandleVerifier [0x011E3BBB+3159851]
+	GetHandleVerifier [0x00F850CB+674875]
+	GetHandleVerifier [0x00F8B28C+699900]
+	(No symbol) [0x00E86244]
+	(No symbol) [0x00E82298]
+	(No symbol) [0x00E8242C]
+	(No symbol) [0x00E74BB0]
+	BaseThreadInitThunk [0x768BFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77667CBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77667C8E+238]
+
+INFO:root:0 mentions of '$XLE' found in https://twitter.com/allstarcharts.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+ERROR:root:Error scraping https://twitter.com/yuriymatso: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=124.0.6367.210)
+Stacktrace:
+	GetHandleVerifier [0x00EEC113+48259]
+	(No symbol) [0x00E7CA41]
+	(No symbol) [0x00D70A17]
+	(No symbol) [0x00D4E02B]
+	(No symbol) [0x00DD742E]
+	(No symbol) [0x00DE9476]
+	(No symbol) [0x00DD0B36]
+	(No symbol) [0x00DA570D]
+	(No symbol) [0x00DA62CD]
+	GetHandleVerifier [0x011A65A3+2908435]
+	GetHandleVerifier [0x011E3BBB+3159851]
+	GetHandleVerifier [0x00F850CB+674875]
+	GetHandleVerifier [0x00F8B28C+699900]
+	(No symbol) [0x00E86244]
+	(No symbol) [0x00E82298]
+	(No symbol) [0x00E8242C]
+	(No symbol) [0x00E74BB0]
+	BaseThreadInitThunk [0x768BFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77667CBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77667C8E+238]
+
+INFO:root:0 mentions of '$XLE' found in https://twitter.com/yuriymatso.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+ERROR:root:Error scraping https://twitter.com/TriggerTrades: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=124.0.6367.210)
+Stacktrace:
+	GetHandleVerifier [0x00EEC113+48259]
+	(No symbol) [0x00E7CA41]
+	(No symbol) [0x00D70A17]
+	(No symbol) [0x00D4E02B]
+	(No symbol) [0x00DD742E]
+	(No symbol) [0x00DE9476]
+	(No symbol) [0x00DD0B36]
+	(No symbol) [0x00DA570D]
+	(No symbol) [0x00DA62CD]
+	GetHandleVerifier [0x011A65A3+2908435]
+	GetHandleVerifier [0x011E3BBB+3159851]
+	GetHandleVerifier [0x00F850CB+674875]
+	GetHandleVerifier [0x00F8B28C+699900]
+	(No symbol) [0x00E86244]
+	(No symbol) [0x00E82298]
+	(No symbol) [0x00E8242C]
+	(No symbol) [0x00E74BB0]
+	BaseThreadInitThunk [0x768BFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77667CBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77667C8E+238]
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+ERROR:root:Error scraping https://twitter.com/Mr_Derivatives: Message: 
+
+INFO:root:0 mentions of '$XLE' found in https://twitter.com/Mr_Derivatives.
+INFO:root:Total mentions of '$XLE' across all accounts: 0.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+ERROR:root:Error scraping https://twitter.com/Mr_Derivatives: Message: 
+
+INFO:root:0 mentions of '$XLE' found in https://twitter.com/Mr_Derivatives.
+INFO:root:Total mentions of '$XLE' across all accounts: 0.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+ERROR:root:Error scraping https://twitter.com/Mr_Derivatives: Message: 
+
+INFO:root:0 mentions of '$XLE' found in https://twitter.com/Mr_Derivatives.
+INFO:root:Total mentions of '$XLE' across all accounts: 0.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+ERROR:root:Error scraping https://twitter.com/Mr_Derivatives: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=124.0.6367.210)
+Stacktrace:
+	GetHandleVerifier [0x00EEC113+48259]
+	(No symbol) [0x00E7CA41]
+	(No symbol) [0x00D70A17]
+	(No symbol) [0x00D4E02B]
+	(No symbol) [0x00DD742E]
+	(No symbol) [0x00DE9476]
+	(No symbol) [0x00DD0B36]
+	(No symbol) [0x00DA570D]
+	(No symbol) [0x00DA62CD]
+	GetHandleVerifier [0x011A65A3+2908435]
+	GetHandleVerifier [0x011E3BBB+3159851]
+	GetHandleVerifier [0x00F850CB+674875]
+	GetHandleVerifier [0x00F8B28C+699900]
+	(No symbol) [0x00E86244]
+	(No symbol) [0x00E82298]
+	(No symbol) [0x00E8242C]
+	(No symbol) [0x00E74BB0]
+	BaseThreadInitThunk [0x768BFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77667CBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77667C8E+238]
+
+INFO:root:0 mentions of '$XLE' found in https://twitter.com/Mr_Derivatives.
+INFO:root:Total mentions of '$XLE' across all accounts: 0.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+ERROR:root:Error scraping https://twitter.com/Mr_Derivatives: Message: 
+
+INFO:root:0 mentions of '$XLE' found in https://twitter.com/Mr_Derivatives.
+INFO:root:Total mentions of '$XLE' across all accounts: 0.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+ERROR:root:Error scraping https://twitter.com/Mr_Derivatives: Message: disconnected: unable to send message to renderer
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=124.0.6367.210)
+Stacktrace:
+	GetHandleVerifier [0x00EEC113+48259]
+	(No symbol) [0x00E7CA41]
+	(No symbol) [0x00D70A17]
+	(No symbol) [0x00D5C4A8]
+	(No symbol) [0x00D5C436]
+	(No symbol) [0x00D5B0BA]
+	(No symbol) [0x00D5B9DD]
+	(No symbol) [0x00D73BD7]
+	(No symbol) [0x00D74382]
+	(No symbol) [0x00D77652]
+	(No symbol) [0x00D776D0]
+	(No symbol) [0x00DB0A0B]
+	(No symbol) [0x00DB0C9B]
+	(No symbol) [0x00DEBC4C]
+	(No symbol) [0x00DD0DE4]
+	(No symbol) [0x00DE9B9C]
+	(No symbol) [0x00DD0B36]
+	(No symbol) [0x00DA570D]
+	(No symbol) [0x00DA62CD]
+	GetHandleVerifier [0x011A65A3+2908435]
+	GetHandleVerifier [0x011E3BBB+3159851]
+	GetHandleVerifier [0x00F850CB+674875]
+	GetHandleVerifier [0x00F8B28C+699900]
+	(No symbol) [0x00E86244]
+	(No symbol) [0x00E82298]
+	(No symbol) [0x00E8242C]
+	(No symbol) [0x00E74BB0]
+	BaseThreadInitThunk [0x768BFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77667CBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77667C8E+238]
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+ERROR:root:Error scraping https://twitter.com/Mr_Derivatives: Message: 
+
+INFO:root:0 mentions of '$XLE' found in https://twitter.com/Mr_Derivatives.
+INFO:root:Total mentions of '$XLE' across all accounts: 0.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+ERROR:root:Error scraping https://twitter.com/Mr_Derivatives: Message: 
+
+INFO:root:0 mentions of '\$\w{3,4}' found in https://twitter.com/Mr_Derivatives.
+INFO:root:Total mentions of '\$\w{3,4}' across all accounts: 0.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+ERROR:root:Error scraping https://twitter.com/Mr_Derivatives: Message: 
+
+INFO:root:0 mentions of '\$\w{3,4}' found in https://twitter.com/Mr_Derivatives.
+INFO:root:Total mentions of '\$\w{3,4}' across all accounts: 0.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+ERROR:root:Error scraping https://twitter.com/Mr_Derivatives: Message: 
+
+INFO:root:0 mentions of '\$\w{3,4}' found in https://twitter.com/Mr_Derivatives.
+INFO:root:Total mentions of '\$\w{3,4}' across all accounts: 0.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+ERROR:root:Error scraping https://twitter.com/Mr_Derivatives: Message: 
+
+INFO:root:0 mentions of '\$\w{3,4}' found in https://twitter.com/Mr_Derivatives.
+INFO:root:Total mentions of '\$\w{3,4}' across all accounts: 0.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+ERROR:root:Error scraping https://twitter.com/Mr_Derivatives: Message: 
+
+INFO:root:0 mentions of '\$\w{3,4}' found in https://twitter.com/Mr_Derivatives.
+INFO:root:Total mentions of '\$\w{3,4}' across all accounts: 0.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:root:Scraping https://twitter.com/TriggerTrades
+INFO:root:Scraping https://twitter.com/warrior_0719
+INFO:root:Scraping https://twitter.com/RoyLMattox
+INFO:root:Scraping https://twitter.com/yuriymatso
+INFO:root:Scraping https://twitter.com/CordovaTrades
+INFO:root:Scraping https://twitter.com/ChartingProdigy
+INFO:root:Scraping https://twitter.com/AdamMancini4
+INFO:root:Scraping https://twitter.com/Mr_Derivatives
+INFO:root:Scraping https://twitter.com/allstarcharts
+INFO:root:Scraping https://twitter.com/Barchart
+INFO:root:Found 0 tweets
+INFO:root:Found 0 tweets
+INFO:root:Found 0 tweets
+INFO:root:Found 0 tweets
+INFO:root:Found 0 tweets
+INFO:root:Found 0 tweets
+INFO:root:Found 0 tweets
+INFO:root:Found 0 tweets
+INFO:root:Found 0 tweets
+INFO:root:'$UNG' was mentioned '0' times in the last '3' minutes.
+INFO:root:Found 0 tweets
+INFO:root:'$UNG' was mentioned '0' times in the last '3' minutes.
+INFO:root:'$UNG' was mentioned '0' times in the last '3' minutes.
+INFO:root:'$UNG' was mentioned '0' times in the last '3' minutes.
+INFO:root:'$UNG' was mentioned '0' times in the last '3' minutes.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:root:Scraping https://twitter.com/Mr_Derivatives
+INFO:root:Found 0 tweets
+INFO:root:'$UNG' was mentioned '0' times in the last '3' minutes.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:root:Scraping https://twitter.com/Mr_Derivatives
+INFO:root:Found 0 tweets
+INFO:root:'$UNG' was mentioned '0' times in the last '3' minutes.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:root:Scraping https://twitter.com/Mr_Derivatives
+INFO:root:Found 0 tweets
+INFO:root:'$UNG' was mentioned '0' times in the last '3' minutes.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:root:Scraping https://twitter.com/Mr_Derivatives
+INFO:root:Found 0 tweets
+INFO:root:'$UNG' was mentioned '0' times in the last '3' minutes.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:root:Scraping https://twitter.com/Mr_Derivatives
+INFO:root:Found 0 tweets
+INFO:root:'$UNG' was mentioned '0' times in the last '3' minutes.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:root:Scraping https://twitter.com/Mr_Derivatives
+ERROR:root:An error occurred: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F90968C050>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/665f5d8d366744c321b70accb3ff4334
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F90968C0E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/665f5d8d366744c321b70accb3ff4334
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F90968C260>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/665f5d8d366744c321b70accb3ff4334
+INFO:root:'$UNG' was mentioned '0' times in the last '3' minutes.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:root:Scraping https://twitter.com/Mr_Derivatives
+INFO:root:Found 0 tweets
+INFO:root:'$TSLA' was mentioned '0' times in the last '3' minutes.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:root:Scraping https://twitter.com/Mr_Derivatives
+INFO:root:Scraping https://twitter.com/warrior_0719
+INFO:root:Found 0 tweets
+INFO:root:'$TSLA' was mentioned '0' times in the last '3' minutes.
+INFO:root:Found 0 tweets
+INFO:root:'$TSLA' was mentioned '0' times in the last '3' minutes.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:root:Scraping https://twitter.com/warrior_0719
+INFO:root:Scraping https://twitter.com/Mr_Derivatives
+INFO:root:Found 2 mentions of '$TSLA' in the filtered ticks.
+INFO:root:Found 0 mentions of '$TSLA' in the filtered ticks.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:root:Scraping https://twitter.com/warrior_0719
+INFO:root:Found 0 mentions of '$TSLA' in the filtered ticks.
+INFO:root:'$TSLA' was mentioned '0' times in the last '3' minutes.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:root:Scraping https://twitter.com/warrior_0719
+INFO:root:Found 0 mentions of '$TSLA' in the filtered ticks.
+INFO:root:'$TSLA' was mentioned '0' times in the last '3' minutes.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:root:Scraping https://twitter.com/warrior_0719
+INFO:root:Found 0 mentions of '$TSLA' in the filtered ticks.
+INFO:root:'$TSLA' was mentioned '0' times in the last '3' minutes.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:root:Scraping   https://x.com/yuriymatso
+INFO:root:Found 0 mentions of '$TSLA' in the filtered ticks.
+ERROR:root:An error occurred: [Errno 22] Invalid argument: '  https://x.com/yuriymatso_page_source.html'
+INFO:root:'$TSLA' was mentioned '0' times in the last '3' minutes.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:root:Scraping https://twitter.com/allstarcharts
+INFO:root:Found 0 mentions of '$TSLA' in the filtered ticks.
+INFO:root:'$TSLA' was mentioned '0' times in the last '3' minutes.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:root:Scraping https://twitter.com/allstarcharts
+INFO:root:Found 0 mentions of '$TSLA' in the filtered ticks.
+INFO:root:'$TSLA' was mentioned '0' times in the last '3' minutes.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:root:Scraping https://twitter.com/allstarcharts
+INFO:root:Found 0 mentions of '$TSLA' in the filtered ticks.
+INFO:root:'$TSLA' was mentioned '0' times in the last '1' minutes.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:root:Scraping https://twitter.com/allstarcharts
+INFO:root:Found 0 mentions of '$TSLA' in the filtered ticks.
+INFO:root:'$TSLA' was mentioned '0' times in the last '1' minutes.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:root:Scraping https://twitter.com/allstarcharts
+ERROR:root:An error occurred: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020270375970>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1f6f68507bea2c71d9427fe8a17ecc54
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020270375460>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1f6f68507bea2c71d9427fe8a17ecc54
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000202703755E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1f6f68507bea2c71d9427fe8a17ecc54
+INFO:root:'$TSLA' was mentioned '0' times in the last '1' minutes.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:root:Scraping https://twitter.com/allstarcharts
+INFO:root:Found 0 mentions of '$TSLA' in the filtered ticks.
+INFO:root:'$TSLA' was mentioned '0' times in the last '1' minutes.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:root:Scraping https://twitter.com/allstarcharts
+INFO:root:Found 0 mentions of '$TSLA' in the filtered ticks.
+INFO:root:'$TSLA' was mentioned '0' times in the last '1' minutes.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:root:Scraping https://twitter.com/allstarcharts
+INFO:root:Found 0 mentions of '$TSLA' in the filtered ticks.
+INFO:root:'$TSLA' was mentioned '0' times in the last '1' minutes.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:root:Scraping https://twitter.com/allstarcharts
+INFO:root:Found 0 mentions of '$TSLA' in the filtered ticks.
+INFO:root:'$TSLA' was mentioned '0' times in the last '1' minutes.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:root:Scraping https://twitter.com/Mr_Derivatives 
+INFO:root:Found 0 mentions of '$TSLA' in the filtered ticks.
+INFO:root:'$TSLA' was mentioned '0' times in the last '1' minutes.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:root:Scraping https://twitter.com/Mr_Derivatives 
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/787564761f4b4a8a4a0c08e39a1c73b8
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000233C147C710>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/787564761f4b4a8a4a0c08e39a1c73b8
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000233C147CA10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/787564761f4b4a8a4a0c08e39a1c73b8
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:root:Scraping https://twitter.com/Mr_Derivatives 
+ERROR:root:An error occurred: cannot access local variable 'filtered_ticks_span' where it is not associated with a value
+INFO:root:'$TSLA' was mentioned '0' times in the last '1' minutes.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:root:Scraping https://twitter.com/warrior_0719
+ERROR:root:An error occurred: cannot access local variable 'filtered_ticks_span' where it is not associated with a value
+INFO:root:'$TSLA' was mentioned '0' times in the last '1' minutes.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:root:Scraping https://twitter.com/warrior_0719
+ERROR:root:An error occurred: cannot access local variable 'filtered_ticks_span' where it is not associated with a value
+INFO:root:'$TSLA' was mentioned '0' times in the last '1' minutes.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:root:Scraping https://twitter.com/warrior_0719
+ERROR:root:An error occurred: cannot access local variable 'filtered_ticks_span' where it is not associated with a value
+INFO:root:'$TSLA' was mentioned '0' times in the last '1' minutes.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:root:Scraping https://twitter.com/warrior_0719
+ERROR:root:An error occurred: cannot access local variable 'filtered_ticks_span' where it is not associated with a value
+INFO:root:'$TSLA' was mentioned '0' times in the last '1' minutes.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:root:Scraping https://twitter.com/warrior_0719
+ERROR:root:An error occurred: cannot access local variable 'filtered_ticks_a' where it is not associated with a value
+INFO:root:'$TSLA' was mentioned '0' times in the last '1' minutes.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:root:Scraping https://twitter.com/warrior_0719
+INFO:root:Found 0 mentions of '$TSLA' in the filtered ticks.
+INFO:root:'$TSLA' was mentioned '0' times in the last '1' minutes.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:root:Scraping https://twitter.com/warrior_0719
+INFO:root:Found 0 mentions of '$TSLA' in the filtered ticks.
+INFO:root:'$TSLA' was mentioned '0' times in the last '1' minutes.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:root:Scraping https://twitter.com/warrior_0719
+INFO:root:Found 0 mentions of '$TSLA' in the filtered ticks.
+INFO:root:'$TSLA' was mentioned '0' times in the last '1' minutes.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:root:Scraping https://twitter.com/warrior_0719
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:root:Scraping https://twitter.com/CordovaTrades
+INFO:root:Scraping https://twitter.com/allstarcharts
+INFO:root:Scraping https://twitter.com/Barchart
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:root:Scraping https://twitter.com/RoyLMattox
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [C:\Users\Fatma Awad\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe] found in cache
+INFO:root:Scraping https://twitter.com/ChartingProdigy
+INFO:root:Scraping https://twitter.com/AdamMancini4 
+INFO:root:Scraping https://twitter.com/yuriymatso
+INFO:root:Scraping https://twitter.com/Mr_Derivatives 
+INFO:root:Scraping https://twitter.com/TriggerTrades
+ERROR:root:An error occurred: cannot access local variable 'filtered_ticks_a' where it is not associated with a value
+ERROR:root:An error occurred: cannot access local variable 'filtered_ticks_a' where it is not associated with a value
+INFO:root:'$TSLA' was mentioned '0' times in the last '1' minutes.
+ERROR:root:An error occurred: cannot access local variable 'filtered_ticks_a' where it is not associated with a value
+ERROR:root:An error occurred: cannot access local variable 'filtered_ticks_a' where it is not associated with a value
+ERROR:root:An error occurred: cannot access local variable 'filtered_ticks_span' where it is not associated with a value
+ERROR:root:An error occurred: cannot access local variable 'filtered_ticks_span' where it is not associated with a value
+INFO:root:'$TSLA' was mentioned '0' times in the last '1' minutes.
+ERROR:root:An error occurred: cannot access local variable 'filtered_ticks_span' where it is not associated with a value
+INFO:root:'$TSLA' was mentioned '0' times in the last '1' minutes.
+ERROR:root:An error occurred: cannot access local variable 'filtered_ticks_span' where it is not associated with a value
+ERROR:root:An error occurred: cannot access local variable 'filtered_ticks_a' where it is not associated with a value
+INFO:root:'$TSLA' was mentioned '0' times in the last '1' minutes.
+ERROR:root:An error occurred: cannot access local variable 'filtered_ticks_span' where it is not associated with a value
+INFO:root:'$TSLA' was mentioned '0' times in the last '1' minutes.
+INFO:root:'$TSLA' was mentioned '0' times in the last '1' minutes.
+INFO:root:'$TSLA' was mentioned '0' times in the last '1' minutes.
+INFO:root:'$TSLA' was mentioned '0' times in the last '1' minutes.
+INFO:root:'$TSLA' was mentioned '0' times in the last '1' minutes.
+ERROR:selenium.webdriver.common.service:Service process refused to terminate gracefully with SIGTERM, escalating to SIGKILL.
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\selenium\webdriver\common\service.py", line 172, in _terminate_process
+    self.process.wait(60)
+  File "C:\Python312\Lib\subprocess.py", line 1264, in wait
+    return self._wait(timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\subprocess.py", line 1591, in _wait
+    raise TimeoutExpired(self.args, timeout)
+subprocess.TimeoutExpired: Command '['C:\\Users\\Fatma Awad\\.wdm\\drivers\\chromedriver\\win64\\124.0.6367.207\\chromedriver-win32/chromedriver.exe', '--port=51315']' timed out after 60 seconds
+INFO:root:'$TSLA' was mentioned '0' times in the last '1' minutes.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======

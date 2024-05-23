@@ -1,0 +1,13 @@
+$SPX
+$SPY
+$ES_F
+$NDX
+$QQQ
+$NQ_F
+$NIO
+$CLOV
+$AMD
+$NVDA
+$AMD
+$BABA
+$PLTR
